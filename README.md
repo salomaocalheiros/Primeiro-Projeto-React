@@ -1,8 +1,8 @@
-﻿# Primeiro Projeto React
+# Primeiro Projeto React
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square)
 
-> RepositÃ³rio do projeto **Primeiro Projeto React**.
+> Repositório do projeto **Primeiro Projeto React**.
 
 ## Tecnologias
 
@@ -10,11 +10,11 @@
 
 ## Como rodar
 
-### PrÃ©-requisitos
+### Pré-requisitos
 
 - Node.js 18+ e npm
 
-### InstalaÃ§Ã£o
+### Instalação
 
 ```bash
 git clone https://github.com/salomaocalheiros/Primeiro-Projeto-React.git
@@ -22,7 +22,7 @@ cd Primeiro-Projeto-React
 npm install
 ```
 
-### ExecuÃ§Ã£o
+### Execução
 
 ```bash
 npm start
@@ -56,10 +56,10 @@ Primeiro-Projeto-React/
 └── yarn.lock
 ```
 
-## ContribuiÃ§Ã£o
+## Contribuição
 
-ContribuiÃ§Ãµes sÃ£o bem-vindas. Abra uma issue ou envie um pull request.
+Contribuições são bem-vindas. Abra uma issue ou envie um pull request.
 
 ---
 
-**Autor:** [SalomÃ£o Calheiros](https://github.com/salomaocalheiros)
+**Autor:** [Salomão Calheiros](https://github.com/salomaocalheiros)
